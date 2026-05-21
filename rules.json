@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-21-004",
+  "version": "2026-05-21-005",
   "description": "X Comment Guard remote rules. Only keyword/rule data, no executable code.",
   "spamKeywords": [
     "点击主页",
