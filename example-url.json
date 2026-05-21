@@ -1,0 +1,11 @@
+{
+  "remoteRulesUrlExample": "https://raw.githubusercontent.com/YOUR_USERNAME/x-comment-guard-rules/main/rules.json",
+  "howToUse": [
+    "Create a public GitHub repository named x-comment-guard-rules",
+    "Upload rules.json and README.md",
+    "Open rules.json on GitHub",
+    "Click Raw",
+    "Copy the raw.githubusercontent.com URL",
+    "Paste it into X Comment Guard remote rules URL"
+  ]
+}
