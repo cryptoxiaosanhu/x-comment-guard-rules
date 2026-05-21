@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-21-003",
+  "version": "2026-05-21-004",
   "description": "X Comment Guard remote rules. Only keyword/rule data, no executable code. 已补充约炮/投稿/emoji垃圾特征。",
   "spamKeywords": [
     "点击主页",
@@ -62,6 +62,13 @@
     "距离近的加V小号",
     "小号禁言",
     "禁言",
+    "telegram",
+    "t.me",
+    "wechat",
+    "微信",
+    "wx",
+    "电报",
+    "飞机号",
     "🤑",
     "🎁",
     "💌",
@@ -153,8 +160,7 @@
     "🪅",
     "🫶",
     "😆🎆",
-    "❣️",
-    "🔲🩸🍸👩🌫️"
+    "❣️"
   ],
   "contacts": [
     "telegram",
@@ -168,8 +174,7 @@
     "line",
     "qq",
     "电报",
-    "飞机号",
-    "✈️"
+    "飞机号"
   ],
   "bioPatterns": [
     "已入驻曰泡平台",
